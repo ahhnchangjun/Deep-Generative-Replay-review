@@ -62,3 +62,8 @@ G는 실제와 같은 샘플을 생성하는 generative model 이고, S는 $\the
 * 기본 실험으로, 섹션 4.1 에서는 망각의 정도를 조사하기위해 독립 task에 대한 네트워크를 순차적으로 훈련한다.
 * 섹션 4.2 에서는 서로 다른 두개의 관련 도메인에서 네트워크를 학습시킴. 이는 generative replay가 알려진 다른 구조와도 호환 가능하다는 것을 보여준다.
 * 섹션 4.3 에서는 학습데이터의 분리된 하위 집합에 대한 네트워크를 학습시킴으로써, 우리의 scholar 네트워크가 meta task를 수행하기 위해 다양한 task로 부터 지식을 수집할 수 있음을 보여준다.
+
+#### ["Continual Learning with Deep Generative Replay" (NeurIPS 2018) - by Hanul Shin, et al.](https://arxiv.org/abs/1705.08690)
+: arXiv:1705.08690
+
+  
